@@ -7,6 +7,6 @@ overlay: red
 published: true
 ---
 {: .lead}
-<!--break-->
-#My Header
+<!–-break-–>
+# My Header
 This is my super cool post
