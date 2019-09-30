@@ -1,0 +1,11 @@
+---
+layout: post
+title: Sample Post
+author: Andy
+hero: https://source.unsplash.com/collection/145103/
+overlay: red
+published: true
+---
+{: .lead}
+<!–-break-–>
+[logo]: https://ieeextreme.org/wp-content/uploads/2019/05/Xtreme_colour-e1557478323964.png "IEEEXtreme logo"
