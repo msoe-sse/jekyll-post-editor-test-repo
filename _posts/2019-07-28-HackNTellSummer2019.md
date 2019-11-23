@@ -11,8 +11,6 @@ published: true
 ---
 {: .lead}
 <!–-break-–>
-![Hack N Tell Summer 2019.jpg](/assets/img/Hack_N_Tell_Summer_2019.jpg)
-
 Hello, it's Andy Wojciechowski (SSE Member) and Seth Fenske (Game Dev Officer) and we're going to tell you what we worked on during Rokkin Cat's summer 2019 Hack N Tell. 
 
 # What is a Hack N Tell
