@@ -22,3 +22,5 @@ After the career fair, we'll have mock whiteboard interviews, where students wil
 Are you excited yet? You should be! SSE is here to make it a great year--socially, academically and professionally--for everyone. 
 
 Want to stay in touch? Join our slack [here](https://msoe-sse.slack.com) or sign up for our email list [here](https://mailchi.mp/b862fad03b69/sse-newsletter). 
+
+# Hello
