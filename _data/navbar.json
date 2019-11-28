@@ -1,0 +1,67 @@
+[
+    {
+        "navbarCategoryName": "home",
+        "pageSitePath": "/",
+        "pageFilePath": null,
+        "navbarCategorySubdirectory": null,
+        "submenus": []
+    },
+    {
+        "navbarCategoryName": "about",
+        "pageSitePath": "/about",
+        "pageFilePath": "about.md",
+        "navbarCategorySubdirectory": "",
+        "submenus": [
+            {
+                "name": "eboard",
+                "pageSitePath": "/about/eboard",
+                "pageFilePath": "eboard.md"
+            },
+            {
+                "name": "constitution",
+                "pageSitePath": "/about/constitution",
+                "pageFilePath": "constitution.md"
+            },
+            {
+                "name": "feedback",
+                "pageSitePath": "/about/feedback",
+                "pageFilePath": "feedback.md"
+            }
+        ]
+    },
+    {
+        "navbarCategoryName": "events",
+        "pageSitePath": "/events",
+        "pageFilePath": "_events/eventsRedirect.md",
+        "navbarCategorySubdirectory": "_events",
+        "submenus": [
+            {
+                "name": "points",
+                "pageSitePath": "/events/points",
+                "pageFilePath": "_events/PointTotals.html"
+            },
+            {
+                "name": "game jam",
+                "pageSitePath": "/events/gamejam",
+                "pageFilePath": "_events/gameJam.md"
+            },
+            {
+                "name": "lightning talks",
+                "pageSitePath": "/events/lightningtalks",
+                "pageFilePath": "_events/lightningTalks.html"
+            },
+            {
+                "name": "website past meetings",
+                "pageSitePath": "/events/webmeetings",
+                "pageFilePath": "_events/pastMeetings.md"
+            }
+        ]
+    },
+    {
+        "navbarCategoryName": "repositories",
+        "pageSitePath": "/repositories",
+        "pageFilePath": "_repositories/2018-game-dev-repos.md",
+        "navbarCategorySubdirectory": "_repositories",
+        "submenus": []
+    }
+]
